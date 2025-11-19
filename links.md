@@ -1,4 +1,4 @@
-Generally speaking, when bringing any Vertex AI capabilities to BQ, you will need to create a resource connection
+When bringing any Vertex AI capabilities to BQ, you will need to create a resource connection
 Resource connections will have their own service account
 Grant that service account access to vertex products
 
